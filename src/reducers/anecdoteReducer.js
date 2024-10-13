@@ -37,6 +37,13 @@ const reducer = (state = initialState, action) => {
   }
 };
 
+export const voteAction = (id) => {
+  return {
+    type: 'VOTE',
+    payload: { id }
+  };
+};
+
 export const createAnecdote = (content) => {
   return {
     type: 'NEW_ANECDOTE',
