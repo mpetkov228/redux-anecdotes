@@ -33,4 +33,10 @@ export const initializeAnecdotes = () => {
   };
 };
 
+export const createAnecdote = () => {
+  return async dispatch => {
+    
+  };
+};
+
 export default anecdoteSlice.reducer;
