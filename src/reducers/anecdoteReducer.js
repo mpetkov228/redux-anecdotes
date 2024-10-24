@@ -40,4 +40,6 @@ export const createAnecdote = (content) => {
   };
 };
 
+export const voteAction = (id) => {} 
+
 export default anecdoteSlice.reducer;
