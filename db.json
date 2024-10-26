@@ -28,16 +28,21 @@
     {
       "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
       "id": "98312",
-      "votes": 0
+      "votes": 10
     },
     {
       "id": "c274",
       "content": "aadwa",
-      "votes": 1
+      "votes": 7
     },
     {
       "id": "3dcd",
       "content": "new one",
+      "votes": 1
+    },
+    {
+      "id": "3334",
+      "content": "setting notification with thunk",
       "votes": 1
     }
   ]
